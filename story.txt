@@ -10,4 +10,8 @@ Please use this exam to mark which exercises you completed in part 2.
 
 The points will be saved once you click on "Finish attempt". It is possible to add more exercises after finishing an attempt, but you will have to re-enter all the previous exercises as well. Thus it is recommended to enter all the exercise points at once, right before passing the exam. 
 
+<<<<<<< Updated upstream
 Note that your exercise points will not be saved unless you click on "Finish attempt"!
+=======
+Note that your exercise points will not be saved unless you click on "Finish attempt".
+>>>>>>> Stashed changes
