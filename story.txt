@@ -1,0 +1,13 @@
+Merkkaa tähän, mitkä tehtävä teit viikolta 2.
+
+Kun painat "Lopeta tentti", laskaripisteesi tallennetaan. Voit lisätä myöhemmin lisää laskaripisteitä, mutta joudut silloin merkitsemään kaikki siitä osasta tekemäsi tehtävät uudestaan. Helpointa on merkitä pisteet väliakaisesti muualle, ja merkitä kaikki pisteet kerralla ennen tenttiä.
+
+Huomaa, että laskaripisteesi otetaan huomioon arvioinnissa vasta, kun painat nappia "Lopeta tentti".
+
+-------------------------------------
+
+Please use this exam to mark which exercises you completed in part 2.
+
+The points will be saved once you click on "Finish attempt". It is possible to add more exercises after finishing an attempt, but you will have to re-enter all the previous exercises as well. Thus it is recommended to enter all the exercise points at once, right before passing the exam. 
+
+Note that your exercise points will not be saved unless you click on "Finish attempt"!
