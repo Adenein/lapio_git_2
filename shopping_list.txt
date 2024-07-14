@@ -1,0 +1,6 @@
+- apples
+- bananas
+- rice
+- milk
+- carrots
+- toilet paper
