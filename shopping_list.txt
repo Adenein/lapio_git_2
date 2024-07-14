@@ -1,4 +1,4 @@
-- oranges
+- apples
 - bananas
 - rice
 - milk
